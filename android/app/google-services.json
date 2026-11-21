@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987603028482",
+    "project_id": "s2026-classm",
+    "storage_bucket": "s2026-classm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987603028482:android:451e969941f24acdc8751b",
+        "android_client_info": {
+          "package_name": "com.rollcake.classicsound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
